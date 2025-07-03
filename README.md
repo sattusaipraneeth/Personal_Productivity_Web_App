@@ -58,7 +58,7 @@ personal-productivity-app/
 
 ## 🎨 UI Preview
 
-![App Screenshot](https://drive.google.com/drive/folders/1glvVHXRFocPuhiJ-XVsJ8crqzOGWNPEo?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1MHI06SXhl_aXRKaVY3dfbCI8VbgNkFm5/view?usp=sharing)
 
 
 ---
