@@ -47,19 +47,37 @@ cd personal-productivity-app
 ## 📁 Project Structure
 
 ```
-personal-productivity-app/
-├── index.html          # Main HTML file
-├── style.css           # Custom CSS styles
-├── script.js           # JavaScript logic for task management
-└── assets/             # Icons, images, and other static files
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── analytics/
+│   │   ├── auth/
+│   │   ├── calendar/
+│   │   ├── common/
+│   │   ├── dashboard/
+│   │   ├── habits/
+│   │   ├── notes/
+│   │   ├── projects/
+│   │   ├── settings/
+│   │   ├── tasks/
+│   │   └── timer/
+│   ├── hooks/
+│   ├── lib/
+│   ├── pages/
+│   ├── types/
+│   └── utils/
+├── supabase/
+│   └── migrations/
+├── .env.example
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
 ```
-
----
-
-## 🎨 UI Preview
-
-![App Screenshot](https://drive.google.com/file/d/1MHI06SXhl_aXRKaVY3dfbCI8VbgNkFm5/view?usp=sharing)
-
 
 ---
 
