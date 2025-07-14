@@ -1,7 +1,7 @@
 
 # 📈 Personal Productivity App
 
-🚀 [Live Demo](https://personal-productivity-web-app.netlify.app/)
+🚀 [Live Demo](https://personal-productivity.netlify.app/)
 
 **Personal Productivity App** is a sleek and user-friendly task management tool designed to help individuals stay organized, track progress, and boost daily efficiency. Built entirely using modern web technologies, this application enables users to manage their time and tasks from a responsive, clutter-free interface.
 
